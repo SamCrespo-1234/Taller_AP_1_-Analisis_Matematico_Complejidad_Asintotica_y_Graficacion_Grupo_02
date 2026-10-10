@@ -187,14 +187,31 @@ public void funcionC(int n) {
 \end{enumerate}
 En este ejercicio, las operaciones elementales son las siguientes:
 \begin{itemize}
-    \item Suma: $total += i$.
-    \item Comparación: $i < n$.
-    \item Incremento: $i++$.
-    \item Asignación: $int total = 0$.
-    \item Impresión: $System.out.println(total)$.
+    \item \texttt{int actual = n}: $C_1 \times 1$
+    \item \texttt{while (actual > 1)}: $n$
+    \item \texttt{System.out.println("Valor:" + actual)}: $C_2 \times 1$
+    \item \texttt{actual = actual / 2}: $C_3 \rightarrow \log n$
 \end{itemize}
 
+\begin{enumerate}
+    \item C\'alculo de la complejidad asint\'otica.
+\end{enumerate}
 
+\textit{Funci\'on C:}
+\[
+T(n) = C1 + n(C2 + \log n) = C1 + \log n = O(n)
+\]
+\textit{Funci\'on C:}
+\[
+T(n) = C1 + \log n
+\]
+\textit{Funci\'on C:}
+\[
+T(n) = \log n
+\]
+\[
+O(\log n)
+\]
 
 \section{Graphs}\label{sec4}
 

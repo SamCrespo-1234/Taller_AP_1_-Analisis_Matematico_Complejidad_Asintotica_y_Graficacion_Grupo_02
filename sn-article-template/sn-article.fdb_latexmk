@@ -1,13 +1,13 @@
 # Fdb version 4
-["bibtex sn-article"] 1791577624.95027 "sn-article.aux" "sn-article.bbl" "sn-article" 1791577629.85976 0
+["bibtex sn-article"] 1791593782.95888 "sn-article.aux" "sn-article.bbl" "sn-article" 1791593976.56895 0
   "./sn-bibliography.bib" 1734062470 5123 ed827672ba553fbcf7f835508e91b250 ""
   "./sn-mathphys-num.bst" 1734062477 64164 943df446db725f71d6bb625fc0d6f4fc ""
-  "sn-article.aux" 1791577628 2166 49af9be04e09d5226112667c343edabf "pdflatex"
+  "sn-article.aux" 1791593974 2166 6a8c515e8c5c14a7ca0d5ea3d6d6e01c "pdflatex"
   (generated)
   "sn-article.bbl"
   "sn-article.blg"
   (rewritten before read)
-["pdflatex"] 1791577625.63536 "c:/Users/ASUS GAMING/Downloads/Taller_AP_1_ Analisis_Matematico_Complejidad_Asintotica_y_Graficacion_Grupo_02/sn-article-template/sn-article.tex" "sn-article.pdf" "sn-article" 1791577629.86138 0
+["pdflatex"] 1791593972.32044 "c:/Users/ASUS GAMING/Downloads/Taller_AP_1_ Analisis_Matematico_Complejidad_Asintotica_y_Graficacion_Grupo_02/sn-article-template/sn-article.tex" "sn-article.pdf" "sn-article" 1791593976.57192 0
   "C:/Users/ASUS GAMING/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1791572962 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/ASUS GAMING/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi602/tcrm1000.pk" 1791571297 11548 f1c802227a71c467aa93741c23ac8acb ""
   "C:/Users/ASUS GAMING/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1791571286 688 37338d6ab346c2f1466b29e195316aa4 ""
@@ -51,6 +51,7 @@
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy5.tfm" 1136765053 1112 14d5d5f6bd3c949edecb5b872f295553 ""
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy7.tfm" 1136765053 1120 2b3f9b25605010c69bc328bea6ac000f ""
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti10.tfm" 1136765053 1480 aa8e34af0eb6a2941b776984cf1dfdc4 ""
+  "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmtt10.tfm" 1136765053 768 1321e9409b4137d6fb428ac9dc956269 ""
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbsy10.pfb" 1247596666 34793 ae7a3e2775dc0ce90475eeabcb46f9f1 ""
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1247596666 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
@@ -65,6 +66,7 @@
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb" 1247596666 33993 9b89b85fd2d9df0482bd47194d1d3bf3 ""
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1247596667 32569 5e5ddc8df908dea60932f3c484a54c0d ""
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1247596667 37944 359e864bd06cde3b1cf57bb20757fb06 ""
+  "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb" 1247596667 31099 342ef5a582aacbd3346f3cf4579679fa ""
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cmextra/cmbsy7.pfb" 1247596671 30068 eae4ba75635647d82fb0b7d7bccc4748 ""
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
@@ -147,11 +149,11 @@
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/tex/latex/wrapfig/wrapfig.sty" 1044403200 26220 3701aebf80ccdef248c0c20dd062fea9 ""
   "C:/Users/ASUS GAMING/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/ASUS GAMING/Downloads/Taller_AP_1_ Analisis_Matematico_Complejidad_Asintotica_y_Graficacion_Grupo_02/sn-article-template/sn-article.tex" 1791577619 17903 872b1918c2a8ae5cffcc9757ad249181 ""
-  "sn-article.aux" 1791577628 2166 49af9be04e09d5226112667c343edabf "pdflatex"
-  "sn-article.bbl" 1791577625 2579 d93965edf44d75df7efe84706846a93a "bibtex sn-article"
-  "sn-article.out" 1791577628 1124 405eeea3a28db00cbc60aadba1fe2adf "pdflatex"
-  "sn-article.tex" 1791577619 17903 872b1918c2a8ae5cffcc9757ad249181 ""
+  "c:/Users/ASUS GAMING/Downloads/Taller_AP_1_ Analisis_Matematico_Complejidad_Asintotica_y_Graficacion_Grupo_02/sn-article-template/sn-article.tex" 1791593970 18235 b09f15a0f576455f6bd02510a69176b0 ""
+  "sn-article.aux" 1791593974 2166 6a8c515e8c5c14a7ca0d5ea3d6d6e01c "pdflatex"
+  "sn-article.bbl" 1791593783 2579 d93965edf44d75df7efe84706846a93a "bibtex sn-article"
+  "sn-article.out" 1791593974 1124 405eeea3a28db00cbc60aadba1fe2adf "pdflatex"
+  "sn-article.tex" 1791593970 18235 b09f15a0f576455f6bd02510a69176b0 ""
   "sn-jnl.cls" 1734062471 55857 c14ef9d34b3d95356940eaf177aff85f ""
   (generated)
   "sn-article.aux"
